@@ -1,5 +1,7 @@
 # CheckMe
 
+在QQ群中查看统计信息
+
 简体中文 | [Englisn](README.en.md)
 
 # 如何使用
